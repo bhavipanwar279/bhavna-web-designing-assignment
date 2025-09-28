@@ -38,6 +38,6 @@ This is a personal project intended for learning purposes, and contributions are
 This project is licensed under the MIT License. See the `LICENSE` file for details.
 
 ## Contact
-*   **Developer:** [Your Name]
+*   **Developer:** [bhavna panwar]
 *   **GitHub:** [@your-github-username](https://github.com/your-github-username)
 # bhavna-web-designing-assignment
